@@ -1,4 +1,4 @@
-[ 
+{"video" :[ 
     { 
         "product":"http://www.amazon.com/dp/B00BGA9WK2",
         "fiveStar":721,
@@ -59,4 +59,4 @@
         "oneStar":18,
         "img_url":"http://images.amazon.com/images/P/B00005NZ1G.01._PE30_PI_SCLZZZZZZZ_.jpg"
     }
-]
+]}

@@ -1,4 +1,4 @@
-[ 
+{"music" : [ 
     { 
         "product":"http://www.amazon.com/dp/B0007NFL18",
         "fiveStar":127,
@@ -59,4 +59,4 @@
         "oneStar":63,
         "img_url":"http://images.amazon.com/images/P/B00065XJ52.01._PE30_PI_SCLZZZZZZZ_.jpg"
     }
-]
+]}

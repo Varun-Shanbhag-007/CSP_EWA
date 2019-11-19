@@ -1,4 +1,4 @@
-[ 
+{"books" :[ 
     { 
         "product":"http://www.amazon.com/dp/030758836X",
         "fiveStar":6233,
@@ -59,4 +59,4 @@
         "oneStar":223,
         "img_url":"http://images.amazon.com/images/P/0399159347.01._PE30_PI_SCLZZZZZZZ_.jpg"
     }
-]
+]}
