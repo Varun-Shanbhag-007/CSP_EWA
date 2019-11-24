@@ -1,12 +1,20 @@
 # CSP_EWA
 EWA Project Digital Marketing and Trends Readme
+Varun Shanbhag (A20452310)
+Akshay Kulkarni (A20448255)
 
 
-Pre-Requisite:
+##########################
+Pre-Requisite
+##########################
 #JDK 8
 #Tomcat 7 
 #Python 3 (Libraries used/required json,scrapy,numpy,collections,operator,surprise,os,csv,nltk,pandas,gzip,spacy,re,gensim,pyLDAvis,matplotlib,seaborn,operator)
 
+
+##########################
+Setup Steps
+##########################
 
 1. Download reviews data from http://jmcauley.ucsd.edu/data/amazon/ pick any category we have picked 4 for the project viz : Books, Sports, Video Game and Digital music
 2. Copy downloaded json in Webapps/Project/Data folder as <category_name>.json
@@ -18,3 +26,13 @@ Pre-Requisite:
 8. Launch Mysql followed by mongo
 9. Launch Tomcat
 10.Ready to go
+
+##########################
+Lines of Code
+##########################
+261 scraper in python
+139 recommender
+148 extraction
+381 trends
+5838 java + html
+Total : 6767
