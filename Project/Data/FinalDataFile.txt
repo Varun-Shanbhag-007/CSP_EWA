@@ -1,0 +1,50 @@
+Books
+
+Products = ['http://www.amazon.com/dp/030758836X', 'http://www.amazon.com/dp/0439023483', 'http://www.amazon.com/dp/0375831002', 'http://www.amazon.com/dp/038536315X', 'http://www.amazon.com/dp/0439023513', 'http://www.amazon.com/dp/0316055433', 'http://www.amazon.com/dp/0385537859', 'http://www.amazon.com/dp/0007444117', 'http://www.amazon.com/dp/147674355X', 'http://www.amazon.com/dp/0399159347']
+
+FiveStars = [6233, 6454, 4674, 4463, 3958, 3521, 3697, 2778, 3591, 3432]
+
+OneStar = [1207, 263, 190, 141, 482, 784, 587, 1043, 134, 223]
+
+Img = ['http://images.amazon.com/images/P/030758836X.01._PE30_PI_SCLZZZZZZZ_.jpg', 'http://images.amazon.com/images/P/0439023483.01._PE30_PI_SCLZZZZZZZ_.jpg', 'http://images.amazon.com/images/P/0375831002.01._PE30_PI_SCLZZZZZZZ_.jpg', 'http://images.amazon.com/images/P/038536315X.01._PE30_PI_SCLZZZZZZZ_.jpg', 'http://images.amazon.com/images/P/0439023513.01._PE30_PI_SCLZZZZZZZ_.jpg', 'http://images.amazon.com/images/P/0316055433.01._PE30_PI_SCLZZZZZZZ_.jpg', 'http://images.amazon.com/images/P/0385537859.01._PE30_PI_SCLZZZZZZZ_.jpg', 'http://images.amazon.com/images/P/0007444117.01._PE30_PI_SCLZZZZZZZ_.jpg', 'http://images.amazon.com/images/P/147674355X.01._PE30_PI_SCLZZZZZZZ_.jpg', 'http://images.amazon.com/images/P/0399159347.01._PE30_PI_SCLZZZZZZZ_.jpg']
+
+
+###########################################################################################################
+
+Music
+
+Products = ['http://www.amazon.com/dp/B0007NFL18', 'http://www.amazon.com/dp/B000084T18', 'http://www.amazon.com/dp/B00006690F', 'http://www.amazon.com/dp/B00004T9UF', 'http://www.amazon.com/dp/B00005YW4H', 'http://www.amazon.com/dp/B0006ZQ9BS', 'http://www.amazon.com/dp/B0000AGWFX', 'http://www.amazon.com/dp/B00005O54Q', 'http://www.amazon.com/dp/B00000163G', 'http://www.amazon.com/dp/B00065XJ52']
+
+FiveStars = [127, 196, 165, 182, 159, 154, 154, 156, 161, 96]
+
+OneStar = [145, 75, 39, 20, 31, 31, 27, 13, 5, 63]
+
+Img = ['http://images.amazon.com/images/P/B0007NFL18.01._PE30_PI_SCLZZZZZZZ_.jpg', 'http://images.amazon.com/images/P/B000084T18.01._PE30_PI_SCLZZZZZZZ_.jpg', 'http://images.amazon.com/images/P/B00006690F.01._PE30_PI_SCLZZZZZZZ_.jpg', 'http://images.amazon.com/images/P/B00004T9UF.01._PE30_PI_SCLZZZZZZZ_.jpg', 'http://images.amazon.com/images/P/B00005YW4H.01._PE30_PI_SCLZZZZZZZ_.jpg', 'http://images.amazon.com/images/P/B0006ZQ9BS.01._PE30_PI_SCLZZZZZZZ_.jpg', 'http://images.amazon.com/images/P/B0000AGWFX.01._PE30_PI_SCLZZZZZZZ_.jpg', 'http://images.amazon.com/images/P/B00005O54Q.01._PE30_PI_SCLZZZZZZZ_.jpg', 'http://images.amazon.com/images/P/B00000163G.01._PE30_PI_SCLZZZZZZZ_.jpg', 'http://images.amazon.com/images/P/B00065XJ52.01._PE30_PI_SCLZZZZZZZ_.jpg']
+
+
+###########################################################################################################
+
+Video Games
+
+Products = ['http://www.amazon.com/dp/B00BGA9WK2', 'http://www.amazon.com/dp/B0015AARJI', 'http://www.amazon.com/dp/B007CM0K86', 'http://www.amazon.com/dp/B002VBWIP6', 'http://www.amazon.com/dp/B0009VXBAQ', 'http://www.amazon.com/dp/B0050SYX8W', 'http://www.amazon.com/dp/B000B9RI14', 'http://www.amazon.com/dp/B00178630A', 'http://www.amazon.com/dp/B007XVTR3K', 'http://www.amazon.com/dp/B00005NZ1G']
+
+FiveStars = [721, 624, 494, 452, 419, 401, 421, 177, 269, 338]
+
+OneStar = [81, 28, 23, 13, 28, 40, 4, 202, 96, 18]
+
+Img = ['http://images.amazon.com/images/P/B00BGA9WK2.01._PE30_PI_SCLZZZZZZZ_.jpg', 'http://images.amazon.com/images/P/B0015AARJI.01._PE30_PI_SCLZZZZZZZ_.jpg', 'http://images.amazon.com/images/P/B007CM0K86.01._PE30_PI_SCLZZZZZZZ_.jpg', 'http://images.amazon.com/images/P/B002VBWIP6.01._PE30_PI_SCLZZZZZZZ_.jpg', 'http://images.amazon.com/images/P/B0009VXBAQ.01._PE30_PI_SCLZZZZZZZ_.jpg', 'http://images.amazon.com/images/P/B0050SYX8W.01._PE30_PI_SCLZZZZZZZ_.jpg', 'http://images.amazon.com/images/P/B000B9RI14.01._PE30_PI_SCLZZZZZZZ_.jpg', 'http://images.amazon.com/images/P/B00178630A.01._PE30_PI_SCLZZZZZZZ_.jpg', 'http://images.amazon.com/images/P/B007XVTR3K.01._PE30_PI_SCLZZZZZZZ_.jpg', 'http://images.amazon.com/images/P/B00005NZ1G.01._PE30_PI_SCLZZZZZZZ_.jpg']
+
+###########################################################################################################
+
+Sports
+
+Products = ['http://www.amazon.com/dp/B001HBHNHE', 'http://www.amazon.com/dp/B001T7QJ9O', 'http://www.amazon.com/dp/B000S5ODN2', 'http://www.amazon.com/dp/B0010O748Q', 'http://www.amazon.com/dp/B0000C50K3', 'http://www.amazon.com/dp/B002ZYRV2E', 'http://www.amazon.com/dp/B002OKWHVO', 'http://www.amazon.com/dp/B000GCRWCG', 'http://www.amazon.com/dp/B001HBHNHY', 'http://www.amazon.com/dp/B0035L35A8']
+
+FiveStars = [1038, 719, 630, 463, 416, 392, 284, 388, 370, 339]
+
+OneStar = [4, 44, 17, 50, 11, 9, 114, 5, 2, 20]
+
+Img = ['http://images.amazon.com/images/P/B001HBHNHE.01._PE30_PI_SCLZZZZZZZ_.jpg', 'http://images.amazon.com/images/P/B001T7QJ9O.01._PE30_PI_SCLZZZZZZZ_.jpg', 'http://images.amazon.com/images/P/B000S5ODN2.01._PE30_PI_SCLZZZZZZZ_.jpg', 'http://images.amazon.com/images/P/B0010O748Q.01._PE30_PI_SCLZZZZZZZ_.jpg', 'http://images.amazon.com/images/P/B0000C50K3.01._PE30_PI_SCLZZZZZZZ_.jpg', 'http://images.amazon.com/images/P/B002ZYRV2E.01._PE30_PI_SCLZZZZZZZ_.jpg', 'http://images.amazon.com/images/P/B002OKWHVO.01._PE30_PI_SCLZZZZZZZ_.jpg', 'http://images.amazon.com/images/P/B000GCRWCG.01._PE30_PI_SCLZZZZZZZ_.jpg', 'http://images.amazon.com/images/P/B001HBHNHY.01._PE30_PI_SCLZZZZZZZ_.jpg', 'http://images.amazon.com/images/P/B0035L35A8.01._PE30_PI_SCLZZZZZZZ_.jpg']
+
+###########################################################################################################
+
