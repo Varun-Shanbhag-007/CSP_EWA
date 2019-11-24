@@ -1,0 +1,39 @@
+CREATE DATABASE `exampledatabase` /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci */ /*!80016 DEFAULT ENCRYPTION='N' */;
+
+CREATE TABLE `customerorders` (
+  `orderid` varchar(20) DEFAULT NULL,
+  `userName` varchar(40) NOT NULL,
+  `orderName` varchar(40) DEFAULT NULL,
+  `orderPrice` double DEFAULT NULL,
+  `userAddress` varchar(40) DEFAULT NULL,
+  `creditCardNo` varchar(40) DEFAULT NULL,
+  `orderDiscount` double DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+
+CREATE TABLE `product_accessories` (
+  `productName` varchar(20) DEFAULT NULL,
+  `accessoriesName` varchar(20) DEFAULT NULL,
+  KEY `productName` (`productName`),
+  KEY `accessoriesName` (`accessoriesName`),
+  CONSTRAINT `product_accessories_ibfk_1` FOREIGN KEY (`productName`) REFERENCES `productdetails` (`Id`) ON DELETE SET NULL ON UPDATE CASCADE,
+  CONSTRAINT `product_accessories_ibfk_2` FOREIGN KEY (`accessoriesName`) REFERENCES `productdetails` (`Id`) ON DELETE SET NULL ON UPDATE CASCADE
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+
+CREATE TABLE `productdetails` (
+  `ProductType` varchar(20) DEFAULT NULL,
+  `Id` varchar(20) NOT NULL,
+  `productName` varchar(40) DEFAULT NULL,
+  `productPrice` double DEFAULT NULL,
+  `productImage` varchar(40) DEFAULT NULL,
+  `productManufacturer` varchar(40) DEFAULT NULL,
+  `productCondition` varchar(40) DEFAULT NULL,
+  `productDiscount` double DEFAULT NULL,
+  PRIMARY KEY (`Id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+
+CREATE TABLE `registration` (
+  `username` varchar(40) DEFAULT NULL,
+  `password` varchar(40) DEFAULT NULL,
+  `repassword` varchar(40) DEFAULT NULL,
+  `usertype` varchar(40) DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
