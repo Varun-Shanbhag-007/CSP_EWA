@@ -1,62 +1,72 @@
-{"music" : [ 
-    { 
+[ 
+    {
+        "title":"The Massacre 50 Cent",
         "product":"http://www.amazon.com/dp/B0007NFL18",
         "fiveStar":127,
         "oneStar":145,
         "img_url":"http://images.amazon.com/images/P/B0007NFL18.01._PE30_PI_SCLZZZZZZZ_.jpg"
     },
     { 
+        "title":"Get Rich Or Die Tryin",
         "product":"http://www.amazon.com/dp/B000084T18",
         "fiveStar":196,
         "oneStar":75,
         "img_url":"http://images.amazon.com/images/P/B000084T18.01._PE30_PI_SCLZZZZZZZ_.jpg"
     },
     { 
+        "title":"The Eminem Show Explicit Lyrics ",
         "product":"http://www.amazon.com/dp/B00006690F",
         "fiveStar":165,
         "oneStar":39,
         "img_url":"http://images.amazon.com/images/P/B00006690F.01._PE30_PI_SCLZZZZZZZ_.jpg"
     },
     { 
+        "title":"The Marshall Mathers Explicit Lyrics",
         "product":"http://www.amazon.com/dp/B00004T9UF",
         "fiveStar":182,
         "oneStar":20,
         "img_url":"http://images.amazon.com/images/P/B00004T9UF.01._PE30_PI_SCLZZZZZZZ_.jpg"
     },
     { 
+        "title":"Come Away with Me ",
         "product":"http://www.amazon.com/dp/B00005YW4H",
         "fiveStar":159,
         "oneStar":31,
         "img_url":"http://images.amazon.com/images/P/B00005YW4H.01._PE30_PI_SCLZZZZZZZ_.jpg"
     },
     { 
+        "title":"The Documentary Explicit Lyrics",
         "product":"http://www.amazon.com/dp/B0006ZQ9BS",
         "fiveStar":154,
         "oneStar":31,
         "img_url":"http://images.amazon.com/images/P/B0006ZQ9BS.01._PE30_PI_SCLZZZZZZZ_.jpg"
     },
     { 
+        "title":"Speakerboxxx / The Love Below",
         "product":"http://www.amazon.com/dp/B0000AGWFX",
         "fiveStar":154,
         "oneStar":27,
         "img_url":"http://images.amazon.com/images/P/B0000AGWFX.01._PE30_PI_SCLZZZZZZZ_.jpg"
     },
     { 
+        "title":"The Blueprint Clean Version",
         "product":"http://www.amazon.com/dp/B00005O54Q",
         "fiveStar":156,
         "oneStar":13,
         "img_url":"http://images.amazon.com/images/P/B00005O54Q.01._PE30_PI_SCLZZZZZZZ_.jpg"
     },
     { 
+        "title":"All Eyez on Me",
         "product":"http://www.amazon.com/dp/B00000163G",
         "fiveStar":161,
         "oneStar":5,
         "img_url":"http://images.amazon.com/images/P/B00000163G.01._PE30_PI_SCLZZZZZZZ_.jpg"
     },
     { 
+        "title":"Encore",
         "product":"http://www.amazon.com/dp/B00065XJ52",
         "fiveStar":96,
         "oneStar":63,
         "img_url":"http://images.amazon.com/images/P/B00065XJ52.01._PE30_PI_SCLZZZZZZZ_.jpg"
     }
-]}
+]

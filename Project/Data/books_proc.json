@@ -1,62 +1,72 @@
-{"books" :[ 
+[ 
     { 
+        "title":"Gone Girl",
         "product":"http://www.amazon.com/dp/030758836X",
         "fiveStar":6233,
         "oneStar":1207,
         "img_url":"http://images.amazon.com/images/P/030758836X.01._PE30_PI_SCLZZZZZZZ_.jpg"
     },
     { 
+        "title":"Hunger Games",
         "product":"http://www.amazon.com/dp/0439023483",
         "fiveStar":6454,
         "oneStar":263,
         "img_url":"http://images.amazon.com/images/P/0439023483.01._PE30_PI_SCLZZZZZZZ_.jpg"
     },
     { 
+        "title":"The Book Theif",
         "product":"http://www.amazon.com/dp/0375831002",
         "fiveStar":4674,
         "oneStar":190,
         "img_url":"http://images.amazon.com/images/P/0375831002.01._PE30_PI_SCLZZZZZZZ_.jpg"
     },
     { 
+        "title":"Sycamore Row",
         "product":"http://www.amazon.com/dp/038536315X",
         "fiveStar":4463,
         "oneStar":141,
         "img_url":"http://images.amazon.com/images/P/038536315X.01._PE30_PI_SCLZZZZZZZ_.jpg"
     },
     { 
+        "title":"Mockingjay",
         "product":"http://www.amazon.com/dp/0439023513",
         "fiveStar":3958,
         "oneStar":482,
         "img_url":"http://images.amazon.com/images/P/0439023513.01._PE30_PI_SCLZZZZZZZ_.jpg"
     },
     { 
+        "title":"The Goldfinch",
         "product":"http://www.amazon.com/dp/0316055433",
         "fiveStar":3521,
         "oneStar":784,
         "img_url":"http://images.amazon.com/images/P/0316055433.01._PE30_PI_SCLZZZZZZZ_.jpg"
     },
     { 
+        "title":"Inferno",
         "product":"http://www.amazon.com/dp/0385537859",
         "fiveStar":3697,
         "oneStar":587,
         "img_url":"http://images.amazon.com/images/P/0385537859.01._PE30_PI_SCLZZZZZZZ_.jpg"
     },
     { 
+        "title":"Allegiant",
         "product":"http://www.amazon.com/dp/0007444117",
         "fiveStar":2778,
         "oneStar":1043,
         "img_url":"http://images.amazon.com/images/P/0007444117.01._PE30_PI_SCLZZZZZZZ_.jpg"
     },
     { 
+        "title":"Hopeless",
         "product":"http://www.amazon.com/dp/147674355X",
         "fiveStar":3591,
         "oneStar":134,
         "img_url":"http://images.amazon.com/images/P/147674355X.01._PE30_PI_SCLZZZZZZZ_.jpg"
     },
     { 
+        "title":"The Husbands Secret",
         "product":"http://www.amazon.com/dp/0399159347",
         "fiveStar":3432,
         "oneStar":223,
         "img_url":"http://images.amazon.com/images/P/0399159347.01._PE30_PI_SCLZZZZZZZ_.jpg"
     }
-]}
+]

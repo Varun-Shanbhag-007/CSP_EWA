@@ -1,62 +1,72 @@
-{"video" :[ 
+[ 
     { 
+        "title":"PlayStation 4 500GB Console",
         "product":"http://www.amazon.com/dp/B00BGA9WK2",
         "fiveStar":721,
         "oneStar":81,
         "img_url":"http://images.amazon.com/images/P/B00BGA9WK2.01._PE30_PI_SCLZZZZZZZ_.jpg"
     },
     { 
+        "title":"PlayStation 3 Dualshock 3 Wireless Controller",
         "product":"http://www.amazon.com/dp/B0015AARJI",
         "fiveStar":624,
         "oneStar":28,
         "img_url":"http://images.amazon.com/images/P/B0015AARJI.01._PE30_PI_SCLZZZZZZZ_.jpg"
     },
     { 
+        "title":"The Last of US",
         "product":"http://www.amazon.com/dp/B007CM0K86",
         "fiveStar":494,
         "oneStar":23,
         "img_url":"http://images.amazon.com/images/P/B007CM0K86.01._PE30_PI_SCLZZZZZZZ_.jpg"
     },
     { 
+        "title":"Xbox Live GOLD",
         "product":"http://www.amazon.com/dp/B002VBWIP6",
         "fiveStar":452,
         "oneStar":13,
         "img_url":"http://images.amazon.com/images/P/B002VBWIP6.01._PE30_PI_SCLZZZZZZZ_.jpg"
     },
     { 
+        "title":"Wii",
         "product":"http://www.amazon.com/dp/B0009VXBAQ",
         "fiveStar":419,
         "oneStar":28,
         "img_url":"http://images.amazon.com/images/P/B0009VXBAQ.01._PE30_PI_SCLZZZZZZZ_.jpg"
     },
     { 
+        "title":"Halo",
         "product":"http://www.amazon.com/dp/B0050SYX8W",
         "fiveStar":401,
         "oneStar":40,
         "img_url":"http://images.amazon.com/images/P/B0050SYX8W.01._PE30_PI_SCLZZZZZZZ_.jpg"
     },
     { 
+        "title":"Xbox 1600 points",
         "product":"http://www.amazon.com/dp/B000B9RI14",
         "fiveStar":421,
         "oneStar":4,
         "img_url":"http://images.amazon.com/images/P/B000B9RI14.01._PE30_PI_SCLZZZZZZZ_.jpg"
     },
     { 
+        "title":"Diablo",
         "product":"http://www.amazon.com/dp/B00178630A",
         "fiveStar":177,
         "oneStar":202,
         "img_url":"http://images.amazon.com/images/P/B00178630A.01._PE30_PI_SCLZZZZZZZ_.jpg"
     },
     { 
+         "title":"Call of Duty Black Ops III",
         "product":"http://www.amazon.com/dp/B007XVTR3K",
         "fiveStar":269,
         "oneStar":96,
         "img_url":"http://images.amazon.com/images/P/B007XVTR3K.01._PE30_PI_SCLZZZZZZZ_.jpg"
     },
     { 
+        "title":"Halo 4",
         "product":"http://www.amazon.com/dp/B00005NZ1G",
         "fiveStar":338,
         "oneStar":18,
         "img_url":"http://images.amazon.com/images/P/B00005NZ1G.01._PE30_PI_SCLZZZZZZZ_.jpg"
     }
-]}
+]

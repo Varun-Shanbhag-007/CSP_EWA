@@ -1,62 +1,72 @@
-{"sports" :[ 
+[ 
     { 
+        "title":"Maglula UpLULA Magazine Speed Loader",
         "product":"http://www.amazon.com/dp/B001HBHNHE",
         "fiveStar":1038,
         "oneStar":4,
         "img_url":"http://images.amazon.com/images/P/B001HBHNHE.01._PE30_PI_SCLZZZZZZZ_.jpg"
     },
     { 
+        "title":"Howard Leight by Honeywell",
         "product":"http://www.amazon.com/dp/B001T7QJ9O",
         "fiveStar":719,
         "oneStar":44,
         "img_url":"http://images.amazon.com/images/P/B001T7QJ9O.01._PE30_PI_SCLZZZZZZZ_.jpg"
     },
     { 
+        "title":"Rothco 550lb. Type III Nylon Paracord",
         "product":"http://www.amazon.com/dp/B000S5ODN2",
         "fiveStar":630,
         "oneStar":17,
         "img_url":"http://images.amazon.com/images/P/B000S5ODN2.01._PE30_PI_SCLZZZZZZZ_.jpg"
     },
     { 
+        "title":"SE FS374 All-Weather Magnesium Firestarter Kit",
         "product":"http://www.amazon.com/dp/B0010O748Q",
         "fiveStar":463,
         "oneStar":50,
         "img_url":"http://images.amazon.com/images/P/B0010O748Q.01._PE30_PI_SCLZZZZZZZ_.jpg"
     },
     { 
+        "title":"Hoppe's Boresnake Viper",
         "product":"http://www.amazon.com/dp/B0000C50K3",
         "fiveStar":416,
         "oneStar":11,
         "img_url":"http://images.amazon.com/images/P/B0000C50K3.01._PE30_PI_SCLZZZZZZZ_.jpg"
     },
     { 
+        "title":"OFF SET TACTICAL Weapon Mount For Olight",
         "product":"http://www.amazon.com/dp/B002ZYRV2E",
         "fiveStar":392,
         "oneStar":9,
         "img_url":"http://images.amazon.com/images/P/B002ZYRV2E.01._PE30_PI_SCLZZZZZZZ_.jpg"
     },
     { 
+        "title":"Solomone Cavalli 223 Bore",
         "product":"http://www.amazon.com/dp/B002OKWHVO",
         "fiveStar":284,
         "oneStar":114,
-        "img_url":"http://images.amazon.com/images/P/B002OKWHVO.01._PE30_PI_SCLZZZZZZZ_.jpg"
+        "img_url":"https://images-na.ssl-images-amazon.com/images/I/61JHsDbUTgL._SL1500_.jpg"
     },
     { 
+        "title":" Mylar Men's Emergency Thermal Blankets",
         "product":"http://www.amazon.com/dp/B000GCRWCG",
         "fiveStar":388,
         "oneStar":5,
-        "img_url":"http://images.amazon.com/images/P/B000GCRWCG.01._PE30_PI_SCLZZZZZZZ_.jpg"
+        "img_url":"https://images-na.ssl-images-amazon.com/images/I/815%2B4r4fGKL._SL1500_.jpg"
     },
     { 
+        "title":"Magzine Loader",
         "product":"http://www.amazon.com/dp/B001HBHNHY",
         "fiveStar":370,
         "oneStar":2,
         "img_url":"http://images.amazon.com/images/P/B001HBHNHY.01._PE30_PI_SCLZZZZZZZ_.jpg"
     },
     { 
+        "title":"UTG Tactical OP Bipod, Rubber Feet",
         "product":"http://www.amazon.com/dp/B0035L35A8",
         "fiveStar":339,
         "oneStar":20,
         "img_url":"http://images.amazon.com/images/P/B0035L35A8.01._PE30_PI_SCLZZZZZZZ_.jpg"
     }
-]}
+]

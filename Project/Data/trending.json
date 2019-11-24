@@ -1,0 +1,31 @@
+[ 
+    { 
+        "trendname":"Psychological Thriller",
+        "title":"Gone Girl",
+        "product":"https://www.amazon.com/dp/030758836X",
+        "img_url":"https://images-na.ssl-images-amazon.com/images/I/41etyGVwOwL._SX326_BO1,204,203,200_.jpg",
+        "type":"Book"
+    },
+    { 
+       
+        "trendname":"#1 On US Billboard",
+        "title":"Gone Girl",
+        "product":"https://www.amazon.com/dp/030758836X",
+        "img_url":"https://images-na.ssl-images-amazon.com/images/I/41etyGVwOwL._SX326_BO1,204,203,200_.jpg",
+        "type":"Book"
+    },
+    { 
+        "title":"The Last of US",
+        "product":"http://www.amazon.com/dp/B007CM0K86",
+        "fiveStar":494,
+        "oneStar":23,
+        "img_url":"http://images.amazon.com/images/P/B007CM0K86.01._PE30_PI_SCLZZZZZZZ_.jpg"
+    },
+    { 
+        "title":"Xbox Live GOLD",
+        "product":"http://www.amazon.com/dp/B002VBWIP6",
+        "fiveStar":452,
+        "oneStar":13,
+        "img_url":"http://images.amazon.com/images/P/B002VBWIP6.01._PE30_PI_SCLZZZZZZZ_.jpg"
+    }
+]
